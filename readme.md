@@ -1,0 +1,2 @@
+This paper designs a program that uses the column pivot Gaussian elimination method to solve the matrix,
+ and has the function of checking whether the matrix has a solution and whether it is a singular matrix
